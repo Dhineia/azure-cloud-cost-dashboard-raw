@@ -29,7 +29,7 @@
 - Day-by-day cloud usage patterns with actual costs
 
 🚀 Bonus Statement (If You’re Pitching This)
-“This dashboard gives stakeholders quick, data-driven visibility into our Azure usage and spending behavior. It’s scalable, shareable, and lays the foundation for automated reporting or Power BI integration.”
+- “This dashboard gives stakeholders quick, data-driven visibility into our Azure usage and spending behavior. It’s scalable, shareable, and lays the foundation for automated reporting or Power BI integration.”
 
 Example:
 ![image](https://github.com/user-attachments/assets/4f9c79e5-7e60-4e86-b64c-bb90f19f4fb7)
